@@ -22,9 +22,9 @@ compare_symbol = "BTCUSDT"
 interval = "1d"
 limit = 300
 
-EMAIL_SENDER = "dagiwonpotra@gmail.com"
-EMAIL_PASSWORD = "qjmebnsrngzdyogx"
-EMAIL_RECEIVER = "dagiwonpotra2@gmail.com"
+EMAIL_SENDER = "dxxxxxxxxx@gmail.com"
+EMAIL_PASSWORD = "xxxxxxxxxxxx"
+EMAIL_RECEIVER = "dxxxxxxxxxxx@gmail.com"
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 
